@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0881-2927
+
+ Directory of C:\Users\alokb\Desktop\GitProject
+
+10/25/2018  04:46 PM    <DIR>          .
+10/25/2018  04:46 PM    <DIR>          ..
+10/25/2018  04:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  616,937,218,048 bytes free
